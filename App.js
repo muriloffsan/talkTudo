@@ -20,3 +20,7 @@ const styles = StyleSheet.create({
 });
 
 //a
+<<<<<<< HEAD
+=======
+//bbbb
+>>>>>>> 8c879537d30b8acd3753147d572391c88a35a4a6
